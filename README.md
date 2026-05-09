@@ -16,10 +16,10 @@
     <a href="mailto:mohammadmontazeri313@gmail.com">
       <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=white&color=black">
     </a>  
-    <a href="https://www.linkedin.com/in/mohammad-montazeri-90ba55249/">
+    <a href="https://www.linkedin.com/in/montazeri-mohammad/">
       <img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=white&color=black">
     </a>  
-    <a href='https://t.me/MohammadSaeed/'>
+    <a href='https://t.me/MohammadMontazeri/'>
         <img src='https://img.shields.io/badge/Telegram-white?style=flat-square&logo=telegram&logoColor=white&color=black'>
     </a>
     <a href='https://www.instagram.com/mimsaeedmim/'>
@@ -30,7 +30,7 @@
 
 ---
 
-Hi there! My name is Mohammad Montazeri and I'm a B.S. student in Mechanical Engineering at the University of Tehran. I'm interested in AI, Robotics, Mechatronics, Control Systems, Materials Science, Biomechanics, and Literature. Here's my humble page where I put my _might-be_ fascinating projects and this and that. Hope you enjoy your stay ;)
+Hi there! My name is Mohammad Montazeri, and I'm a B.S. student in Mechanical Engineering at the University of Tehran. I'm interested in AI, Robotics, Mechatronics, Control Systems, Materials Science, Biomechanics, and Literature. Here's my humble page where I put my _might-be_ fascinating projects and this and that. Hope you enjoy your stay ;)
 
 </br>  
 
