@@ -6,8 +6,8 @@
 
 <div>
   <p align="center"><b><i>
-    University of Tehran, Mechanical Engineering Dept. <br>
-    Research Assistant at Human and Robot Interaction Lab. (<a href="https://taarlab.com/">TAARLAB</a>)
+    Sharif University of Technology, Mechanical Engineering Dept. <br>
+    Research Assistant at Human and Robot Interaction Lab. (<a href="https://taarlab.com/">TAARLAB</a>) in university of Tehran
   </p></b></i>
 </div>
 
